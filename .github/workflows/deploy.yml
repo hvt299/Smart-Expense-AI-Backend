@@ -1,0 +1,37 @@
+name: CI/CD Pipeline cho Smart Expense AI
+
+on:
+  push:
+    branches:
+      - main
+      - dev
+  pull_request:
+    branches:
+      - main
+      - dev
+
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 📥 Lấy mã nguồn
+        uses: actions/checkout@v4
+
+      - name: 🐳 Cài đặt Docker Buildx
+        uses: docker/setup-buildx-action@v3
+
+      - name: 🛠️ Build thử Docker Image (Chỉ test, không push)
+        uses: docker/build-push-action@v5
+        with:
+          context: .
+          push: false
+          tags: smart-expense-api:test
+
+  deploy-to-render:
+    needs: build-and-test
+    runs-on: ubuntu-latest
+    if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+    steps:
+      - name: 🚀 Kích hoạt Render Deploy Hook
+        run: |
+          curl "${{ secrets.RENDER_DEPLOY_HOOK_URL }}"
