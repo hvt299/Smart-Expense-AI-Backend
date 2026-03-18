@@ -1,0 +1,245 @@
+text,category
+ăn sáng 30k,Ăn uống
+ăn sáng bánh mì 15k,Ăn uống
+ăn sáng cf 25k,Ăn uống
+cf sáng 30k,Ăn uống
+uống cf 40k,Ăn uống
+uống cf với bạn 50k,Ăn uống
+cà phê sáng 35k,Ăn uống
+uống trà sữa 50k,Ăn uống
+trà sữa size l 65k,Ăn uống
+trà sữa trân châu 60k,Ăn uống
+ăn trưa cơm văn phòng 50k,Ăn uống
+ăn trưa phở 45k,Ăn uống
+ăn trưa bún bò 40k,Ăn uống
+ăn trưa bánh mì 30k,Ăn uống
+ăn trưa lẩu 200k,Ăn uống
+ăn tối nhà hàng 300k,Ăn uống
+ăn tối lẩu 250k,Ăn uống
+ăn tối nướng 150k,Ăn uống
+ăn vặt bánh tráng 20k,Ăn uống
+ăn vặt khoai chiên 15k,Ăn uống
+ăn vặt hoa quả 25k,Ăn uống
+ăn vặt kem 30k,Ăn uống
+ăn đồ ăn nhanh 50k,Ăn uống
+ăn đồ ăn vặt 35k,Ăn uống
+mua đồ ăn 100k,Ăn uống
+mua trái cây 80k,Ăn uống
+ăn sáng bún 25k,Ăn uống
+ăn sáng phở 35k,Ăn uống
+ăn sáng bánh bao 20k,Ăn uống
+ăn trưa cơm hộp 40k,Ăn uống
+ăn trưa bánh xèo 50k,Ăn uống
+ăn trưa cháo 30k,Ăn uống
+ăn trưa hủ tiếu 45k,Ăn uống
+ăn tối mì xào 60k,Ăn uống
+ăn tối pizza 120k,Ăn uống
+ăn tối burger 100k,Ăn uống
+ăn tối gà rán 150k,Ăn uống
+uống sinh tố 35k,Ăn uống
+uống nước ép 30k,Ăn uống
+uống nước cam 25k,Ăn uống
+uống trà 20k,Ăn uống
+uống trà nóng 15k,Ăn uống
+uống trà đá 10k,Ăn uống
+cà phê đá 35k,Ăn uống
+cà phê sữa 40k,Ăn uống
+uống matcha 50k,Ăn uống
+uống latte 60k,Ăn uống
+uống capuchino 55k,Ăn uống
+ăn buffet 300k,Ăn uống
+ăn buffet lẩu 350k,Ăn uống
+ăn buffet nướng 400k,Ăn uống
+đổ xăng 50k,Di chuyển
+đổ xăng xe máy 100k,Di chuyển
+đổ xăng 70k,Di chuyển
+đổ xăng full 150k,Di chuyển
+đi grab 40k,Di chuyển
+đi grab bike 35k,Di chuyển
+grab về nhà 60k,Di chuyển
+grab đi làm 50k,Di chuyển
+grab chiều 45k,Di chuyển
+đi taxi 120k,Di chuyển
+taxi đi làm 100k,Di chuyển
+taxi về nhà 90k,Di chuyển
+đi xe ôm 30k,Di chuyển
+xe ôm về nhà 25k,Di chuyển
+xe ôm đi làm 30k,Di chuyển
+gửi xe 5k,Di chuyển
+gửi xe tháng 100k,Di chuyển
+gửi xe 10k,Di chuyển
+gửi xe qua đêm 20k,Di chuyển
+gửi xe văn phòng 50k,Di chuyển
+bảo dưỡng xe 200k,Di chuyển
+thay nhớt xe 150k,Di chuyển
+rửa xe 30k,Di chuyển
+đi xe bus 10k,Di chuyển
+đi lại 50k,Di chuyển
+đi lại trong ngày 80k,Di chuyển
+đi lại cả tuần 300k,Di chuyển
+đi lại tháng này 1tr,Di chuyển
+đi xe đạp 5k,Di chuyển
+thuê xe máy 200k,Di chuyển
+thuê xe ô tô 1tr5,Di chuyển
+xe đưa đón 100k,Di chuyển
+đi phượt 500k,Di chuyển
+đi picnic 150k,Di chuyển
+vé tàu 300k,Di chuyển
+vé xe 120k,Di chuyển
+tàu cao tốc 500k,Di chuyển
+taxi sân bay 400k,Di chuyển
+grab sân bay 350k,Di chuyển
+xe ôm sân bay 300k,Di chuyển
+đi lại học tập 50k,Di chuyển
+đi lại công tác 200k,Di chuyển
+bảo trì xe 250k,Di chuyển
+rửa xe máy 20k,Di chuyển
+rửa xe ô tô 50k,Di chuyển
+đổ xăng hôm nay 120k,Di chuyển
+grab đi chợ 60k,Di chuyển
+taxi đi chợ 70k,Di chuyển
+đi lại buổi sáng 50k,Di chuyển
+đi lại buổi chiều 40k,Di chuyển
+mua áo 200k,Mua sắm
+mua áo khoác 500k,Mua sắm
+mua quần jeans 400k,Mua sắm
+mua giày 800k,Mua sắm
+sắm đồ 1tr,Mua sắm
+shopping 2tr,Mua sắm
+mua đồ shopee 300k,Mua sắm
+chốt đơn 150k,Mua sắm
+mua túi xách 600k,Mua sắm
+mua đồng hồ 1tr2,Mua sắm
+mua mỹ phẩm 500k,Mua sắm
+mua đồ skincare 700k,Mua sắm
+mua tai nghe 300k,Mua sắm
+mua điện thoại 5tr,Mua sắm
+mua laptop 15tr,Mua sắm
+mua phụ kiện 200k,Mua sắm
+mua đồ linh tinh 100k,Mua sắm
+mua sách 150k,Mua sắm
+mua đồ online 250k,Mua sắm
+mua quà 300k,Mua sắm
+đặt đồ shopee 400k,Mua sắm
+đặt đồ tiki 350k,Mua sắm
+đặt đồ lazada 500k,Mua sắm
+đặt đồ online 250k,Mua sắm
+sắm giày mới 600k,Mua sắm
+sắm áo mới 400k,Mua sắm
+sắm quần mới 350k,Mua sắm
+sắm túi xách 500k,Mua sắm
+sắm phụ kiện 200k,Mua sắm
+shopping mỹ phẩm 600k,Mua sắm
+shopping skincare 700k,Mua sắm
+shopping đồ điện tử 2tr,Mua sắm
+mua tai nghe bluetooth 400k,Mua sắm
+mua sạc dự phòng 150k,Mua sắm
+mua balo 300k,Mua sắm
+mua vali 800k,Mua sắm
+mua đồ chơi 200k,Mua sắm
+mua quần áo trẻ em 500k,Mua sắm
+mua đồ thể thao 600k,Mua sắm
+mua đồng hồ thông minh 2tr,Mua sắm
+mua máy ảnh 5tr,Mua sắm
+mua loa bluetooth 1tr,Mua sắm
+mua pin năng lượng 200k,Mua sắm
+mua bàn phím 400k,Mua sắm
+mua chuột 250k,Mua sắm
+mua màn hình 3tr,Mua sắm
+mua phụ kiện điện thoại 150k,Mua sắm
+đặt hàng shopee 300k,Mua sắm
+đặt hàng lazada 400k,Mua sắm
+đặt hàng tiki 350k,Mua sắm
+đặt đơn online 200k,Mua sắm
+tiền điện 1tr,Hóa đơn
+tiền điện tháng này 1tr2,Hóa đơn
+đóng tiền điện 900k,Hóa đơn
+tiền điện tháng 1 850k,Hóa đơn
+tiền điện tháng 2 800k,Hóa đơn
+tiền điện tháng 3 950k,Hóa đơn
+tiền điện tháng 4 1tr,Hóa đơn
+tiền điện tháng 5 1tr1,Hóa đơn
+tiền điện tháng 6 1tr2,Hóa đơn
+tiền điện tháng 7 900k,Hóa đơn
+tiền nước 300k,Hóa đơn
+đóng tiền nước 250k,Hóa đơn
+tiền nước tháng này 200k,Hóa đơn
+tiền nước tháng 1 220k,Hóa đơn
+tiền nước tháng 2 230k,Hóa đơn
+tiền nước tháng 3 210k,Hóa đơn
+trả tiền nước 200k,Hóa đơn
+tiền internet 200k,Hóa đơn
+tiền wifi 180k,Hóa đơn
+đóng tiền mạng 200k,Hóa đơn
+trả tiền internet 220k,Hóa đơn
+trả tiền wifi 200k,Hóa đơn
+tiền điện nước 1tr5,Hóa đơn
+tiền nhà 5tr,Hóa đơn
+tiền nhà tháng này 5tr,Hóa đơn
+tiền thuê nhà 6tr,Hóa đơn
+đóng tiền phòng 4tr,Hóa đơn
+tiền nhà tháng 1 4tr5,Hóa đơn
+tiền nhà tháng 2 4tr8,Hóa đơn
+tiền phòng trọ tháng này 3tr,Hóa đơn
+trả tiền phòng trọ 3tr5,Hóa đơn
+trả tiền điện nước 1tr7,Hóa đơn
+tiền dịch vụ nhà 500k,Hóa đơn
+tiền quản lý chung cư 400k,Hóa đơn
+tiền gas 250k,Hóa đơn
+đóng tiền gas 300k,Hóa đơn
+tiền điện tháng 8 950k,Hóa đơn
+tiền nước tháng 8 220k,Hóa đơn
+trả tiền wifi tháng 8 200k,Hóa đơn
+trả tiền internet tháng 8 220k,Hóa đơn
+tiền điện nước tháng này 1tr6,Hóa đơn
+tiền điện nước tháng 7 1tr5,Hóa đơn
+tiền nhà tháng 3 5tr,Hóa đơn
+tiền nhà tháng 4 5tr2,Hóa đơn
+cắt tóc 50k,Khác
+cắt tóc nam 40k,Khác
+cắt tóc nữ 60k,Khác
+cắt tóc trẻ em 30k,Khác
+làm tóc 300k,Khác
+uốn tóc 500k,Khác
+nhuộm tóc 400k,Khác
+massage 400k,Khác
+spa 500k,Khác
+làm đẹp 300k,Khác
+mua thuốc 100k,Khác
+mua thuốc cảm 80k,Khác
+mua thuốc đau đầu 50k,Khác
+đi khám bệnh 300k,Khác
+khám sức khỏe 500k,Khác
+mừng cưới 500k,Khác
+đi đám cưới 300k,Khác
+mừng sinh nhật 200k,Khác
+tặng quà 250k,Khác
+nạp thẻ 100k,Khác
+nạp điện thoại 50k,Khác
+nạp data 80k,Khác
+đóng học phí 2tr,Khác
+học phí tháng này 1tr5,Khác
+đi học thêm 500k,Khác
+chi tiêu linh tinh 100k,Khác
+tiêu vặt 50k,Khác
+làm đẹp tóc 200k,Khác
+làm móng tay 150k,Khác
+làm móng chân 150k,Khác
+tẩy lông 200k,Khác
+thẻ cào 100k,Khác
+mua sách 200k,Khác
+mua văn phòng phẩm 150k,Khác
+đi chơi 300k,Khác
+giải trí 200k,Khác
+xem phim 100k,Khác
+ăn vặt ngoài 50k,Khác
+đi cafe với bạn 150k,Khác
+đi picnic 250k,Khác
+tiền quỹ lớp 100k,Khác
+tiền hội nhóm 150k,Khác
+tiền phạt 50k,Khác
+tiền từ thiện 200k,Khác
+mua đồ handmade 100k,Khác
+mua quà tặng 150k,Khác
+đi du lịch 1tr,Khác
+chi tiêu cá nhân 200k,Khác
