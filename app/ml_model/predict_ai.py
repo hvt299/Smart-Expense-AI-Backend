@@ -64,7 +64,7 @@ def analyze_expense(text: str) -> dict:
     category = cat_model.predict([cleaned])[0]
     txn_type = type_model.predict([cleaned])[0]
     
-    note_pattern = r"(\d+(?:[\.,]\d+)*)\s*(triệu|tr|nghìn|ngàn|k|củ|tỷ|lít)?\s*(vnđ|đ|vnd)?"
+    note_pattern = r"\b\d+(?:[\.,]\d+)?\s*(triệu|tr|nghìn|ngàn|k|củ|tỷ|lít|vnđ|đ|vnd)\b"
     note = re.sub(note_pattern, "", text.lower()).strip()
     
     return {
