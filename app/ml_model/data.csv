@@ -1,0 +1,462 @@
+text,category,type
+ăn sáng 30k,Ăn uống,expense
+ăn sáng bánh mì 15k,Ăn uống,expense
+ăn sáng cf 25k,Ăn uống,expense
+cf sáng 30k,Ăn uống,expense
+uống cf 40k,Ăn uống,expense
+uống cf với bạn 50k,Ăn uống,expense
+cà phê sáng 35k,Ăn uống,expense
+uống trà sữa 50k,Ăn uống,expense
+trà sữa size l 65k,Ăn uống,expense
+trà sữa trân châu 60k,Ăn uống,expense
+ăn trưa cơm văn phòng 50k,Ăn uống,expense
+ăn trưa phở 45k,Ăn uống,expense
+ăn trưa bún bò 40k,Ăn uống,expense
+ăn trưa bánh mì 30k,Ăn uống,expense
+ăn trưa lẩu 200k,Ăn uống,expense
+ăn tối nhà hàng 300k,Ăn uống,expense
+ăn tối lẩu 250k,Ăn uống,expense
+ăn tối nướng 150k,Ăn uống,expense
+ăn vặt bánh tráng 20k,Ăn uống,expense
+ăn vặt khoai chiên 15k,Ăn uống,expense
+ăn vặt hoa quả 25k,Ăn uống,expense
+ăn vặt kem 30k,Ăn uống,expense
+ăn đồ ăn nhanh 50k,Ăn uống,expense
+ăn đồ ăn vặt 35k,Ăn uống,expense
+mua đồ ăn 100k,Ăn uống,expense
+mua trái cây 80k,Ăn uống,expense
+ăn sáng bún 25k,Ăn uống,expense
+ăn sáng phở 35k,Ăn uống,expense
+ăn sáng bánh bao 20k,Ăn uống,expense
+ăn trưa cơm hộp 40k,Ăn uống,expense
+ăn trưa bánh xèo 50k,Ăn uống,expense
+ăn trưa cháo 30k,Ăn uống,expense
+ăn trưa hủ tiếu 45k,Ăn uống,expense
+ăn tối mì xào 60k,Ăn uống,expense
+ăn tối pizza 120k,Ăn uống,expense
+ăn tối burger 100k,Ăn uống,expense
+ăn tối gà rán 150k,Ăn uống,expense
+uống sinh tố 35k,Ăn uống,expense
+uống nước ép 30k,Ăn uống,expense
+uống nước cam 25k,Ăn uống,expense
+uống trà 20k,Ăn uống,expense
+uống trà nóng 15k,Ăn uống,expense
+uống trà đá 10k,Ăn uống,expense
+cà phê đá 35k,Ăn uống,expense
+cà phê sữa 40k,Ăn uống,expense
+uống matcha 50k,Ăn uống,expense
+uống latte 60k,Ăn uống,expense
+uống capuchino 55k,Ăn uống,expense
+ăn buffet 300k,Ăn uống,expense
+ăn buffet lẩu 350k,Ăn uống,expense
+ăn buffet nướng 400k,Ăn uống,expense
+đổ xăng 50k,Di chuyển,expense
+đổ xăng xe máy 100k,Di chuyển,expense
+đổ xăng 70k,Di chuyển,expense
+đổ xăng full 150k,Di chuyển,expense
+đi grab 40k,Di chuyển,expense
+đi grab bike 35k,Di chuyển,expense
+grab về nhà 60k,Di chuyển,expense
+grab đi làm 50k,Di chuyển,expense
+grab chiều 45k,Di chuyển,expense
+đi taxi 120k,Di chuyển,expense
+taxi đi làm 100k,Di chuyển,expense
+taxi về nhà 90k,Di chuyển,expense
+đi xe ôm 30k,Di chuyển,expense
+xe ôm về nhà 25k,Di chuyển,expense
+xe ôm đi làm 30k,Di chuyển,expense
+gửi xe 5k,Di chuyển,expense
+gửi xe tháng 100k,Di chuyển,expense
+gửi xe 10k,Di chuyển,expense
+gửi xe qua đêm 20k,Di chuyển,expense
+gửi xe văn phòng 50k,Di chuyển,expense
+bảo dưỡng xe 200k,Di chuyển,expense
+thay nhớt xe 150k,Di chuyển,expense
+rửa xe 30k,Di chuyển,expense
+đi xe bus 10k,Di chuyển,expense
+đi lại 50k,Di chuyển,expense
+đi lại trong ngày 80k,Di chuyển,expense
+đi lại cả tuần 300k,Di chuyển,expense
+đi lại tháng này 1tr,Di chuyển,expense
+đi xe đạp 5k,Di chuyển,expense
+thuê xe máy 200k,Di chuyển,expense
+thuê xe ô tô 1tr5,Di chuyển,expense
+xe đưa đón 100k,Di chuyển,expense
+đi phượt 500k,Di chuyển,expense
+đi picnic 150k,Di chuyển,expense
+vé tàu 300k,Di chuyển,expense
+vé xe 120k,Di chuyển,expense
+tàu cao tốc 500k,Di chuyển,expense
+taxi sân bay 400k,Di chuyển,expense
+grab sân bay 350k,Di chuyển,expense
+xe ôm sân bay 300k,Di chuyển,expense
+đi lại học tập 50k,Di chuyển,expense
+đi lại công tác 200k,Di chuyển,expense
+bảo trì xe 250k,Di chuyển,expense
+rửa xe máy 20k,Di chuyển,expense
+rửa xe ô tô 50k,Di chuyển,expense
+đổ xăng hôm nay 120k,Di chuyển,expense
+grab đi chợ 60k,Di chuyển,expense
+taxi đi chợ 70k,Di chuyển,expense
+đi lại buổi sáng 50k,Di chuyển,expense
+đi lại buổi chiều 40k,Di chuyển,expense
+mua áo 200k,Mua sắm,expense
+mua áo khoác 500k,Mua sắm,expense
+mua quần jeans 400k,Mua sắm,expense
+mua giày 800k,Mua sắm,expense
+sắm đồ 1tr,Mua sắm,expense
+shopping 2tr,Mua sắm,expense
+mua đồ shopee 300k,Mua sắm,expense
+chốt đơn 150k,Mua sắm,expense
+mua túi xách 600k,Mua sắm,expense
+mua đồng hồ 1tr2,Mua sắm,expense
+mua mỹ phẩm 500k,Mua sắm,expense
+mua đồ skincare 700k,Mua sắm,expense
+mua tai nghe 300k,Mua sắm,expense
+mua điện thoại 5tr,Mua sắm,expense
+mua laptop 15tr,Mua sắm,expense
+mua phụ kiện 200k,Mua sắm,expense
+mua đồ linh tinh 100k,Mua sắm,expense
+mua sách 150k,Mua sắm,expense
+mua đồ online 250k,Mua sắm,expense
+mua quà 300k,Mua sắm,expense
+đặt đồ shopee 400k,Mua sắm,expense
+đặt đồ tiki 350k,Mua sắm,expense
+đặt đồ lazada 500k,Mua sắm,expense
+đặt đồ online 250k,Mua sắm,expense
+sắm giày mới 600k,Mua sắm,expense
+sắm áo mới 400k,Mua sắm,expense
+sắm quần mới 350k,Mua sắm,expense
+sắm túi xách 500k,Mua sắm,expense
+sắm phụ kiện 200k,Mua sắm,expense
+shopping mỹ phẩm 600k,Mua sắm,expense
+shopping skincare 700k,Mua sắm,expense
+shopping đồ điện tử 2tr,Mua sắm,expense
+mua tai nghe bluetooth 400k,Mua sắm,expense
+mua sạc dự phòng 150k,Mua sắm,expense
+mua balo 300k,Mua sắm,expense
+mua vali 800k,Mua sắm,expense
+mua đồ chơi 200k,Mua sắm,expense
+mua quần áo trẻ em 500k,Mua sắm,expense
+mua đồ thể thao 600k,Mua sắm,expense
+mua đồng hồ thông minh 2tr,Mua sắm,expense
+mua máy ảnh 5tr,Mua sắm,expense
+mua loa bluetooth 1tr,Mua sắm,expense
+mua pin năng lượng 200k,Mua sắm,expense
+mua bàn phím 400k,Mua sắm,expense
+mua chuột 250k,Mua sắm,expense
+mua màn hình 3tr,Mua sắm,expense
+mua phụ kiện điện thoại 150k,Mua sắm,expense
+đặt hàng shopee 300k,Mua sắm,expense
+đặt hàng lazada 400k,Mua sắm,expense
+đặt hàng tiki 350k,Mua sắm,expense
+đặt đơn online 200k,Mua sắm,expense
+tiền điện 1tr,Hóa đơn,expense
+tiền điện tháng này 1tr2,Hóa đơn,expense
+đóng tiền điện 900k,Hóa đơn,expense
+tiền điện tháng 1 850k,Hóa đơn,expense
+tiền điện tháng 2 800k,Hóa đơn,expense
+tiền điện tháng 3 950k,Hóa đơn,expense
+tiền điện tháng 4 1tr,Hóa đơn,expense
+tiền điện tháng 5 1tr1,Hóa đơn,expense
+tiền điện tháng 6 1tr2,Hóa đơn,expense
+tiền điện tháng 7 900k,Hóa đơn,expense
+tiền nước 300k,Hóa đơn,expense
+đóng tiền nước 250k,Hóa đơn,expense
+tiền nước tháng này 200k,Hóa đơn,expense
+tiền nước tháng 1 220k,Hóa đơn,expense
+tiền nước tháng 2 230k,Hóa đơn,expense
+tiền nước tháng 3 210k,Hóa đơn,expense
+trả tiền nước 200k,Hóa đơn,expense
+tiền internet 200k,Hóa đơn,expense
+tiền wifi 180k,Hóa đơn,expense
+đóng tiền mạng 200k,Hóa đơn,expense
+trả tiền internet 220k,Hóa đơn,expense
+trả tiền wifi 200k,Hóa đơn,expense
+tiền điện nước 1tr5,Hóa đơn,expense
+tiền nhà 5tr,Hóa đơn,expense
+tiền nhà tháng này 5tr,Hóa đơn,expense
+tiền thuê nhà 6tr,Hóa đơn,expense
+đóng tiền phòng 4tr,Hóa đơn,expense
+tiền nhà tháng 1 4tr5,Hóa đơn,expense
+tiền nhà tháng 2 4tr8,Hóa đơn,expense
+tiền phòng trọ tháng này 3tr,Hóa đơn,expense
+trả tiền phòng trọ 3tr5,Hóa đơn,expense
+trả tiền điện nước 1tr7,Hóa đơn,expense
+tiền dịch vụ nhà 500k,Hóa đơn,expense
+tiền quản lý chung cư 400k,Hóa đơn,expense
+tiền gas 250k,Hóa đơn,expense
+đóng tiền gas 300k,Hóa đơn,expense
+tiền điện tháng 8 950k,Hóa đơn,expense
+tiền nước tháng 8 220k,Hóa đơn,expense
+trả tiền wifi tháng 8 200k,Hóa đơn,expense
+trả tiền internet tháng 8 220k,Hóa đơn,expense
+tiền điện nước tháng này 1tr6,Hóa đơn,expense
+tiền điện nước tháng 7 1tr5,Hóa đơn,expense
+tiền nhà tháng 3 5tr,Hóa đơn,expense
+tiền nhà tháng 4 5tr2,Hóa đơn,expense
+cắt tóc 50k,Khác,expense
+cắt tóc nam 40k,Khác,expense
+cắt tóc nữ 60k,Khác,expense
+cắt tóc trẻ em 30k,Khác,expense
+làm tóc 300k,Khác,expense
+uốn tóc 500k,Khác,expense
+nhuộm tóc 400k,Khác,expense
+massage 400k,Khác,expense
+spa 500k,Khác,expense
+làm đẹp 300k,Khác,expense
+mua thuốc 100k,Khác,expense
+mua thuốc cảm 80k,Khác,expense
+mua thuốc đau đầu 50k,Khác,expense
+đi khám bệnh 300k,Khác,expense
+khám sức khỏe 500k,Khác,expense
+mừng cưới 500k,Khác,expense
+đi đám cưới 300k,Khác,expense
+mừng sinh nhật 200k,Khác,expense
+tặng quà 250k,Khác,expense
+nạp thẻ 100k,Khác,expense
+nạp điện thoại 50k,Khác,expense
+nạp data 80k,Khác,expense
+đóng học phí 2tr,Khác,expense
+học phí tháng này 1tr5,Khác,expense
+đi học thêm 500k,Khác,expense
+chi tiêu linh tinh 100k,Khác,expense
+tiêu vặt 50k,Khác,expense
+làm đẹp tóc 200k,Khác,expense
+làm móng tay 150k,Khác,expense
+làm móng chân 150k,Khác,expense
+tẩy lông 200k,Khác,expense
+thẻ cào 100k,Khác,expense
+mua sách 200k,Khác,expense
+mua văn phòng phẩm 150k,Khác,expense
+đi chơi 300k,Khác,expense
+giải trí 200k,Khác,expense
+xem phim 100k,Khác,expense
+ăn vặt ngoài 50k,Khác,expense
+đi cafe với bạn 150k,Khác,expense
+đi picnic 250k,Khác,expense
+tiền quỹ lớp 100k,Khác,expense
+tiền hội nhóm 150k,Khác,expense
+tiền phạt 50k,Khác,expense
+tiền từ thiện 200k,Khác,expense
+mua đồ handmade 100k,Khác,expense
+mua quà tặng 150k,Khác,expense
+đi du lịch 1tr,Khác,expense
+chi tiêu cá nhân 200k,Khác,expense
+lương tháng 10 10tr,Lương,income
+lương tháng này 12tr,Lương,income
+lương tháng 5 công ty A 15tr,Lương,income
+thu nhập từ công ty 20tr,Lương,income
+lương cơ bản 18tr,Lương,income
+tiền lương tháng 7 25tr,Lương,income
+lương tháng 6 theo dự án 30tr,Lương,income
+lương tháng 9 công ty B 22tr,Lương,income
+thu nhập tháng này từ công ty 24tr,Lương,income
+tiền lương công ty tháng 8 28tr,Lương,income
+lương của tôi tháng này 17tr,Lương,income
+lương hàng tháng 19tr,Lương,income
+lương tháng này nhận trực tiếp 16tr,Lương,income
+tiền lương làm thêm 5tr,Lương,income
+tiền làm việc ngoài giờ 3tr,Lương,income
+lương từ công ty C tháng 11 14tr,Lương,income
+thu nhập tháng này từ công ty D 20tr,Lương,income
+tiền lương tháng 4 làm full-time 23tr,Lương,income
+lương tháng 5 làm part-time 10tr,Lương,income
+thu nhập từ công việc freelance 7tr,Lương,income
+tiền lương trong tuần 2tr,Lương,income
+lương tháng này sau thuế 21tr,Lương,income
+lương thử việc tháng 1 8tr,Lương,income
+tiền thưởng và lương tháng này 25tr,Lương,income
+lương sau tăng ca tháng 6 30tr,Lương,income
+lương tháng này thêm phụ cấp 12tr,Lương,income
+tiền lương cho công việc IT 40tr,Lương,income
+tiền lương thỏa thuận 35tr,Lương,income
+tiền lương từ công ty XYZ 15tr,Lương,income
+lương tháng 7 cộng với phụ cấp 33tr,Lương,income
+tiền lương từ hợp đồng lao động 18tr,Lương,income
+lương tháng này cộng tiền tăng lương 28tr,Lương,income
+tiền làm thêm vào cuối tuần 3tr,Lương,income
+thu nhập từ hợp đồng dài hạn 13tr,Lương,income
+lương theo giờ tháng này 22tr,Lương,income
+lương công ty tháng 3 là 17tr,Lương,income
+lương tháng này cộng tiền thưởng 50tr,Lương,income
+tiền lương của tháng 6 cộng phụ cấp 26tr,Lương,income
+lương tháng 5 trả qua thẻ 19tr,Lương,income
+lương tháng 9 theo chế độ công ty 29tr,Lương,income
+tiền lương chi trả tháng này 12tr,Lương,income
+lương cuối tháng của tôi 24tr,Lương,income
+thưởng tháng 1 5tr,Thưởng,income
+thưởng tết Nguyên Đán 15tr,Thưởng,income
+thưởng cuối năm 10tr,Thưởng,income
+thưởng hoàn thành dự án 3tr,Thưởng,income
+thưởng thâm niên công tác 2tr,Thưởng,income
+thưởng doanh thu quý 1 7tr,Thưởng,income
+thưởng tháng 5 lễ 10tr,Thưởng,income
+thưởng theo hiệu quả công việc 8tr,Thưởng,income
+thưởng công ty tháng này 12tr,Thưởng,income
+thưởng kỳ nghỉ hè 4tr,Thưởng,income
+thưởng thêm cho nhân viên xuất sắc 6tr,Thưởng,income
+thưởng cho thành tích cao trong công việc 9tr,Thưởng,income
+thưởng dự án lớn 20tr,Thưởng,income
+thưởng khởi động dự án mới 3tr,Thưởng,income
+thưởng quý 3 5tr,Thưởng,income
+thưởng vào cuối năm 25tr,Thưởng,income
+thưởng thu nhập vượt chỉ tiêu 7tr,Thưởng,income
+thưởng hoàn thành mục tiêu tháng 10tr,Thưởng,income
+thưởng mừng sinh nhật công ty 2tr,Thưởng,income
+thưởng học bổng cho nhân viên 3tr,Thưởng,income
+thưởng hoàn thành nhiệm vụ tháng này 8tr,Thưởng,income
+thưởng theo kết quả bán hàng 6tr,Thưởng,income
+thưởng tháng 6 cho nhóm đạt doanh thu cao 4tr,Thưởng,income
+thưởng cá nhân cho thành tích xuất sắc 5tr,Thưởng,income
+thưởng do công ty tổ chức chương trình thi đua 12tr,Thưởng,income
+thưởng cho nhân viên đạt KPI 15tr,Thưởng,income
+thưởng thành tích vượt bậc trong năm 17tr,Thưởng,income
+thưởng kết quả công việc tháng này 13tr,Thưởng,income
+thưởng quý 4 cho nhân viên 20tr,Thưởng,income
+thưởng cuối năm cho cấp quản lý 25tr,Thưởng,income
+thưởng tháng 8 cho đội ngũ kinh doanh 18tr,Thưởng,income
+thưởng vì đóng góp sáng kiến 7tr,Thưởng,income
+thưởng cho người xuất sắc tháng 7 10tr,Thưởng,income
+thưởng vì đã vượt chỉ tiêu doanh thu 30tr,Thưởng,income
+thưởng nhân viên bán hàng giỏi 5tr,Thưởng,income
+thưởng vì cải tiến quy trình làm việc 3tr,Thưởng,income
+thưởng vì đóng góp vào sự phát triển của công ty 5tr,Thưởng,income
+thưởng cho nhóm làm việc nhóm tốt nhất 6tr,Thưởng,income
+thưởng năm mới cho nhân viên 10tr,Thưởng,income
+thưởng thành tích cao trong chiến lược marketing 8tr,Thưởng,income
+thưởng tăng trưởng doanh thu quý 2 7tr,Thưởng,income
+thưởng chia sẻ lợi nhuận cuối năm 50tr,Thưởng,income
+thưởng cho nhân viên làm lâu dài 4tr,Thưởng,income
+thưởng vì đã giúp đỡ đội nhóm vượt qua khó khăn 6tr,Thưởng,income
+thưởng chuyên gia trong công ty 12tr,Thưởng,income
+thưởng theo mục tiêu phát triển công ty 25tr,Thưởng,income
+thưởng tháng 11 cho nhân viên kỹ thuật 18tr,Thưởng,income
+thu nhập freelance tháng này 5tr,Freelance,income
+làm freelance tháng 1 8tr,Freelance,income
+thu nhập từ freelance 10tr,Freelance,income
+làm freelance tháng 3 7tr,Freelance,income
+tiền freelance tháng này 3tr,Freelance,income
+thu nhập từ công việc freelance tháng 4 9tr,Freelance,income
+kiếm tiền freelance 6tr,Freelance,income
+thu nhập freelance từ viết lách 4tr,Freelance,income
+tiền kiếm được từ freelance 11tr,Freelance,income
+làm freelance về thiết kế 12tr,Freelance,income
+thu nhập freelance từ lập trình 15tr,Freelance,income
+kiếm tiền freelance qua Fiverr 7tr,Freelance,income
+thu nhập freelance làm việc từ xa 5tr,Freelance,income
+làm freelance cho công ty A 6tr,Freelance,income
+thu nhập freelance từ dịch thuật 3tr,Freelance,income
+thu nhập từ công việc freelance tháng 5 10tr,Freelance,income
+thu nhập freelance ổn định hàng tháng 8tr,Freelance,income
+làm freelance ngoài giờ 4tr,Freelance,income
+thu nhập freelance từ viết bài 7tr,Freelance,income
+kiếm tiền từ freelance viết blog 5tr,Freelance,income
+làm freelance trong lĩnh vực marketing 9tr,Freelance,income
+tiền freelance tháng này từ thiết kế đồ họa 10tr,Freelance,income
+thu nhập từ freelance tại Upwork 12tr,Freelance,income
+thu nhập freelance từ quảng cáo 6tr,Freelance,income
+kiếm tiền qua freelance dịch thuật 8tr,Freelance,income
+làm freelance cho dự án quốc tế 13tr,Freelance,income
+thu nhập freelance từ việc viết content 6tr,Freelance,income
+làm freelance về SEO 9tr,Freelance,income
+thu nhập freelance tháng 6 7tr,Freelance,income
+thu nhập freelance từ công ty B 10tr,Freelance,income
+kiếm tiền qua freelance bằng việc phát triển ứng dụng 12tr,Freelance,income
+làm freelance về lập trình web 8tr,Freelance,income
+thu nhập freelance từ dạy học online 5tr,Freelance,income
+tiền kiếm được từ công việc freelance tháng 7 11tr,Freelance,income
+thu nhập freelance tháng này từ video editing 9tr,Freelance,income
+kiếm tiền qua freelance từ việc dịch phim 7tr,Freelance,income
+thu nhập freelance qua việc bán sản phẩm online 10tr,Freelance,income
+làm freelance giúp việc truyền thông 8tr,Freelance,income
+kiếm tiền freelance qua việc phát triển phần mềm 15tr,Freelance,income
+thu nhập từ freelance ngoài giờ làm chính 6tr,Freelance,income
+làm freelance cho các dự án ngắn hạn 7tr,Freelance,income
+thu nhập freelance làm việc qua các nền tảng 10tr,Freelance,income
+kiếm tiền từ freelance qua việc bán dịch vụ 5tr,Freelance,income
+thu nhập freelance từ các công ty nước ngoài 12tr,Freelance,income
+doanh thu từ kinh doanh tháng này 10tr,Kinh doanh,income
+thu nhập từ kinh doanh online 15tr,Kinh doanh,income
+lợi nhuận từ bán hàng tháng này 20tr,Kinh doanh,income
+doanh thu cửa hàng tháng 1 30tr,Kinh doanh,income
+thu nhập từ việc mở cửa hàng trực tuyến 25tr,Kinh doanh,income
+doanh thu bán sản phẩm 12tr,Kinh doanh,income
+thu nhập từ việc kinh doanh dịch vụ 40tr,Kinh doanh,income
+doanh thu từ các sản phẩm mới ra mắt 18tr,Kinh doanh,income
+lợi nhuận từ kinh doanh bất động sản 50tr,Kinh doanh,income
+doanh thu từ bán lẻ tháng này 7tr,Kinh doanh,income
+thu nhập từ việc mở cửa hàng trực tuyến tháng 6 10tr,Kinh doanh,income
+lợi nhuận từ bán hàng trong tháng 5 20tr,Kinh doanh,income
+doanh thu từ bán hàng qua kênh online 30tr,Kinh doanh,income
+thu nhập từ việc làm chủ cửa hàng 15tr,Kinh doanh,income
+doanh thu tháng này từ việc buôn bán trực tuyến 22tr,Kinh doanh,income
+doanh thu của cửa hàng vật liệu xây dựng 28tr,Kinh doanh,income
+lợi nhuận từ kinh doanh thực phẩm 35tr,Kinh doanh,income
+doanh thu tháng này từ việc bán sách 5tr,Kinh doanh,income
+thu nhập từ việc kinh doanh quà tặng 18tr,Kinh doanh,income
+doanh thu từ việc cho thuê bất động sản 50tr,Kinh doanh,income
+thu nhập từ việc bán sản phẩm điện tử 15tr,Kinh doanh,income
+doanh thu từ kinh doanh thời trang 40tr,Kinh doanh,income
+lợi nhuận từ việc kinh doanh online 25tr,Kinh doanh,income
+doanh thu từ việc mở cửa hàng thời trang 12tr,Kinh doanh,income
+thu nhập từ bán hàng trên Amazon 7tr,Kinh doanh,income
+doanh thu từ cửa hàng mỹ phẩm 30tr,Kinh doanh,income
+lợi nhuận từ việc bán đồ handmade 18tr,Kinh doanh,income
+doanh thu tháng này từ việc bán đồ gia dụng 22tr,Kinh doanh,income
+thu nhập từ bán sản phẩm qua Shopee 16tr,Kinh doanh,income
+doanh thu từ kinh doanh đồ điện tử 10tr,Kinh doanh,income
+lợi nhuận từ bán quần áo online 12tr,Kinh doanh,income
+doanh thu từ dịch vụ vận chuyển 25tr,Kinh doanh,income
+thu nhập từ việc cung cấp dịch vụ quảng cáo 20tr,Kinh doanh,income
+doanh thu từ bán đồ ăn nhanh 18tr,Kinh doanh,income
+lợi nhuận từ kinh doanh mặt hàng công nghệ 40tr,Kinh doanh,income
+doanh thu từ bán đồ thể thao 15tr,Kinh doanh,income
+thu nhập từ dịch vụ thiết kế website 10tr,Kinh doanh,income
+doanh thu từ bán phần mềm ứng dụng 30tr,Kinh doanh,income
+lợi nhuận từ kinh doanh vật liệu xây dựng 50tr,Kinh doanh,income
+doanh thu từ bán đồ nội thất 22tr,Kinh doanh,income
+thu nhập từ bán đồ chơi trẻ em 8tr,Kinh doanh,income
+doanh thu từ việc cung cấp dịch vụ làm đẹp 20tr,Kinh doanh,income
+lợi nhuận từ kinh doanh thủy sản 25tr,Kinh doanh,income
+thu nhập từ việc cho thuê phòng trọ 5tr,Khác,income
+thu nhập từ các công việc tay trái 8tr,Khác,income
+tiền từ việc bán đồ cũ 2tr,Khác,income
+tiền từ việc cho thuê xe 4tr,Khác,income
+thu nhập từ việc bán vé số 1tr,Khác,income
+tiền thưởng từ các sự kiện 10tr,Khác,income
+thu nhập từ việc cho thuê nhà đất 12tr,Khác,income
+tiền bán đồ nội thất cũ 3tr,Khác,income
+thu nhập từ việc làm thêm ngoài giờ 6tr,Khác,income
+tiền từ các công việc giúp việc 2tr,Khác,income
+tiền từ việc nhận bảo hiểm 5tr,Khác,income
+thu nhập từ việc cho vay 7tr,Khác,income
+thu nhập từ việc bán sách cũ 3tr,Khác,income
+tiền từ việc tổ chức sự kiện 8tr,Khác,income
+tiền từ việc tham gia khảo sát 1tr,Khác,income
+thu nhập từ các công việc làm tại nhà 4tr,Khác,income
+tiền bán quà tặng handmade 2tr,Khác,income
+thu nhập từ việc dạy kèm 6tr,Khác,income
+thu nhập từ các hoạt động nghệ thuật 10tr,Khác,income
+tiền từ việc làm thợ mộc 4tr,Khác,income
+tiền từ việc làm tóc 3tr,Khác,income
+thu nhập từ việc làm nails 2tr,Khác,income
+tiền từ việc cho thuê máy móc 5tr,Khác,income
+thu nhập từ việc bán thẻ game 1tr,Khác,income
+tiền từ việc làm cộng tác viên 7tr,Khác,income
+thu nhập từ việc viết sách 10tr,Khác,income
+tiền từ việc làm hướng dẫn viên du lịch 4tr,Khác,income
+tiền từ việc chăm sóc thú cưng 3tr,Khác,income
+thu nhập từ việc tổ chức lớp học online 6tr,Khác,income
+tiền từ việc làm dịch vụ chăm sóc sức khỏe 2tr,Khác,income
+thu nhập từ việc cung cấp dịch vụ giao hàng 5tr,Khác,income
+tiền từ việc tổ chức tour du lịch 10tr,Khác,income
+thu nhập từ việc mở lớp yoga 8tr,Khác,income
+tiền từ việc cung cấp dịch vụ chụp ảnh 3tr,Khác,income
+thu nhập từ việc làm quản lý dự án 12tr,Khác,income
+tiền từ việc sửa chữa đồ điện tử 6tr,Khác,income
+thu nhập từ việc bán đồ vintage 5tr,Khác,income
+tiền từ việc làm dịch vụ chăm sóc sắc đẹp 7tr,Khác,income
+thu nhập từ việc làm công việc linh tinh 2tr,Khác,income
+tiền từ việc làm bảo vệ 3tr,Khác,income
+thu nhập từ việc cho thuê dụng cụ thể thao 4tr,Khác,income
