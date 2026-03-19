@@ -23,6 +23,7 @@ class ExpenseRequest(BaseModel):
 class ExpenseResponse(BaseModel):
     amount: float
     category: str
+    type: str
     note: str
 
 @app.get("/")
